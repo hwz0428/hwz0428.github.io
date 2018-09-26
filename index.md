@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wenzhuo Huang's homepage!
 
 You can use the [editor on GitHub](https://github.com/hwz0428/hwz0428.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
