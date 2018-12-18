@@ -1,11 +1,10 @@
 ![](Images/ebl-developed-10X_banner.jpeg)
 ## Welcome to Wenzhuo Huang's homepage!
 
-I am currently a 3rd year PhD candidate in Photonics, Electrical and Computer Engineerning at University of California, San Diego. I am working in Nanoengineered Photonics Group with [Prof. Ertugrul Cubukcu](http://cubukcu.ucsd.edu/Cubukcu_Lab-UCSD/Home.html). Our research motivation is to study the light-matter interaction in the nanoscale.
+I am currently a 3rd year PhD candidate in Photonics, Electrical and Computer Engineerning at University of California, San Diego. I am working with [Prof. Ertugrul Cubukcu](http://cubukcu.ucsd.edu/Cubukcu_Lab-UCSD/Home.html) in Nanoengineered Photonics Group. Our research motivation is to study the light-matter interaction in the nanoscale.
 
 ### Research
 My research interests lie in the field of nanophotonics, including plasmonics, metamaterials, photonic crystals, 2D materials, exciton-polaritons, and most recently, topological photonics.
-
 
 ### Contact
 
