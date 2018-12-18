@@ -3,7 +3,7 @@
 ## About me
 I am a skiing enthusiast.
 
-<img src="Images/IMG_0057.JPG" width="40">
+![](/Images/skiing.JPG)
 
 I am a go-cart lover.
 ![](/Images/IMG_2558.JPG)
