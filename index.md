@@ -1,5 +1,5 @@
-## [Home](index.md) [Research](https://hwz0428.github.io/research/) [Publications]() [About me](https://hwz0428.github.io/aboutme/)
-[Contact](https://hwz0428.github.io/contact/)
+### | [Home](index.md) | [Research](https://hwz0428.github.io/research/) | [Publications]() | [About me](https://hwz0428.github.io/aboutme/) | [Contact](https://hwz0428.github.io/contact/)
+
 ![](Images/ebl-developed-10X_banner.jpeg)
 ## Welcome to my homepage!
 
