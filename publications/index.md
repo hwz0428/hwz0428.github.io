@@ -10,7 +10,7 @@
 
 * Xingwang Zhang, Nicolas Biekert, Shinhyuk Choi, Carl Naylor, Chawina De-Eknamkul, **Wenzhuo Huang**, Xiaorui Zheng, Dake Wang, 
 Alan T. Johnson, Ertugrul  Cubukcu. “Dynamic Photochemical and Optoelectronic Control of Photonic Fano Resonances via Monolayer 
-MoS2 Trions.” [_Nano letters_ 18.2 (2018): 957-963](https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.7b04355.pdf). 
+MoS2 Trions.” [_Nano letters_ 18.2 (2018): 957-963](https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.7b04355). 
 
 <!-- * **Wenzhuo Huang**, Hai Zhu, Ertugrul Cubukcu. “Electrostatic Tuning of Fano Resonances in Plasmonic Metamaterial Absorber.” 
 Manuscript prepared for _Applied Physics Letters_.-->
