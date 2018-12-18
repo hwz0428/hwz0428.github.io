@@ -2,10 +2,11 @@
 
 ## About me
 I am a skiing enthusiast.
-![](/Images/IMG_0057.JPG)
+
+<img src="Images/IMG_0057.JPG" width="40">
 
 I am a go-cart lover.
-![](/Images/IMG_2258.JPG)
+![](/Images/IMG_2558.JPG)
 
 I like making delicious foods.
 ![](/Images/cook.JPG)
