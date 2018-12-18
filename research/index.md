@@ -1,4 +1,4 @@
-## [Home](https://hwz0428.github.io/)
+### | [Home](index.md) | [Research](https://hwz0428.github.io/research/) | [Publications]() | [About me](https://hwz0428.github.io/aboutme/) | [Contact](https://hwz0428.github.io/contact/)
 ![](/Images/enhmap_flw.png)
 
 ### Research
