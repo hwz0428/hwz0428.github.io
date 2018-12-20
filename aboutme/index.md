@@ -4,8 +4,8 @@
 I am a skiing enthusiast.
 ![](/Images/skiing.JPG)
 
-I am a go-kart lover.
-![](/Images/IMG_2558.JPG)
+<!--*I am a go-kart lover.
+![](/Images/IMG_2558.JPG)-->
 
 I like making delicious foods.
 ![](/Images/cook.JPG)
