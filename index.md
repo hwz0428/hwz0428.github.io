@@ -1,4 +1,4 @@
-### | [Home](/index.md) | [Research](/research/index.md) | [Publications]() | [About me](/aboutme/index.md) | [Contact](/contact/index.md)
+### | [Home](/index.md) | [Research](/research/index.md) | [Publications](/publications/index.md) | [About me](/aboutme/index.md) | [Contact](/contact/index.md)
 ## Welcome to my homepage!
 
 ![](Images/ebl-developed-10X_banner.jpeg)
