@@ -2,8 +2,8 @@
 
 ## Publications
 
-<!--* **Wenzhuo Huang**, Chawina De-Eknamkul, Xingwang Zhang, Eric Leewong, Mengqiang Zhao, A. T. Charlie Johnson, and Ertugrul Cubukcu. 
-“Monolayer Excitonic Emission for Imaging Eccentric Spatial Dispersion of a Photonic Crystal.” Manuscript submitted to _ACS Photonics_.-->
+* **Wenzhuo Huang**, Chawina De-Eknamkul, Xingwang Zhang, Eric Leewong, Meng-Qiang Zhao, A. T. Charlie Johnson, and Ertugrul Cubukcu. 
+“Monolayer Excitonic Emission for Imaging Spatial Dispersion of Photonic Crystals.” Manuscript accepted by _ACS Photonics_.
 
 <!--* Xingwang Zhang, Xiaojie Zhang, **Wenzhuo Huang**, Sefaattin Tongay, and Ertugrul Cubukcu. 
 “Self-resonant Exciton-polaritons in an Ultrathin WS2 Photonic Crystal.” Manuscript submitted to _Nature Photonics_.-->
