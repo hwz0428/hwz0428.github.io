@@ -9,4 +9,4 @@ I am currently a 3rd year PhD candidate in Photonics, Electrical and Computer En
 
 _Website under construction._
 
-_Recent Update: Dec. 2018_
+_Recent Update: Aug. 2019_
