@@ -1,6 +1,9 @@
 ### | [Home](../index.md) | [Research](../research/index.md) | [Publications](../publications/index.md) | [About me](../aboutme/index.md) | [Contact](../contact/index.md)
 
 ## About me
+
+My most recent [CV](./aboutme/New_CV_Huang.pdf).
+
 I am a skiing enthusiast.
 ![](/Images/skiing.JPG)
 
