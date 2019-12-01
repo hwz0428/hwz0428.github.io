@@ -2,7 +2,8 @@
 
 ## Publications
 
-* De-Eknamkul, Chawina, Xingwang Zhang, Mengqiang Zhao, **Wenzhuo Huang**, Renyu Liu, A. T. Charlie Johnson, and Ertugrul Cubukcu. "MoS2-enabled dual-mode optoelectronic biosensor using a water soluble variant of Mu-opioid receptor for opioid peptide detection." [_2D Materials_ (2019)](https://iopscience.iop.org/article/10.1088/2053-1583/ab5ae2/meta).
+* De-Eknamkul Chawina, Xingwang Zhang, Mengqiang Zhao, **Wenzhuo Huang**, Renyu Liu, A. T. Charlie Johnson, and Ertugrul Cubukcu. "MoS2-enabled dual-mode optoelectronic biosensor using a water soluble variant of Mu-opioid receptor for opioid peptide detection." [_2D Materials_ (2019)](https://iopscience.iop.org/article/10.1088/2053-1583/ab5ae2/meta).
+
 * **Wenzhuo Huang**, Chawina De-Eknamkul, Xingwang Zhang, Eric Leewong, Meng-Qiang Zhao, A. T. Charlie Johnson, and Ertugrul Cubukcu. 
 “Monolayer Excitonic Emission for Imaging Spatial Dispersion of Photonic Crystals.” [_ACS Photonics_ 6.9 (2019): 2312-2319](https://pubs.acs.org/doi/10.1021/acsphotonics.9b00820).
 
