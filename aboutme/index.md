@@ -2,7 +2,7 @@
 
 ## About me
 
-My most recent [CV](./new_CV_Huang.pdf).
+My most recent [CV](./New_CV_Huang.pdf).
 
 I am a skiing enthusiast.
 ![](/Images/skiing.JPG)
