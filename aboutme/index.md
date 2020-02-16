@@ -1,9 +1,21 @@
 ### | [Home](../index.md) | [Research](../research/index.md) | [Publications](../publications/index.md) | [About me](../aboutme/index.md) | [Contact](../contact/index.md)
 
-## About me
+### My most recent [CV](./New_CV_Huang.pdf).
 
-My most recent [CV](./New_CV_Huang.pdf).
+## Professionals
+- Simulation: FDTD (Lumerical, MEEP), FEM (COMSOL), RCWA (S4)
 
+- Experiment: Opto-mechanical assemblies, Optical alignment, Free space and Fourier imaging, Holography
+
+- Characterization: Visible & IR spectroscopy, Confocal Raman/PL spectroscopy, Ellipsometry, SEM, AFM, X-ray scattering
+
+- Data analysis: Optimization and regression analysis, Image processing, Neural networks, Monte Carlo method, Stochastic processes
+
+- Programming: Python, Matlab, Mathematica, LabVIEW, Linux, Latex
+
+- Courses: Computational Physics, General Relativity, Integrated Photonics, Laser and Optics, Nanophotonics, Optical Information Processing, Optical Processes in Semiconductors, Physics of Management Science, Reasoning and Decision Making, Solid State Physics, Statistical Optics, Theoretical Astrophysics, Topology, Two-Dimensional Materials.
+
+## Lifestyle
 I am a skiing enthusiast.
 ![](/Images/skiing.JPG)
 
