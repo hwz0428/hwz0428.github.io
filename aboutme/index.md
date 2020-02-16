@@ -2,7 +2,7 @@
 
 ### My most recent [CV](./New_CV_Huang.pdf).
 
-## Professionals
+## Professional
 - Simulation: FDTD (Lumerical, MEEP), FEM (COMSOL), RCWA (S4)
 
 - Experiment: Opto-mechanical assemblies, Optical alignment, Free space and Fourier imaging, Holography
