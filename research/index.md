@@ -14,4 +14,3 @@ Some previous projects:
 - Unidirectional surface plasmon polariton (SPP) antenna pair.
 - Electrostatic tuning of plasmonic metamaterial cavity.
 - Opto-mechanical cantilever based on plasmonic metamaterial absorber.
-- 2D material sensors.
