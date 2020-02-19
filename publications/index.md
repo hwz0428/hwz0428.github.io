@@ -11,9 +11,9 @@
 
 * **Wenzhuo Huang**, Chawina De-Eknamkul, Xingwang Zhang, Eric Leewong, Meng-Qiang Zhao, A. T. Charlie Johnson, and Ertugrul Cubukcu. 
 “Monolayer Excitonic Emission for Imaging Spatial Dispersion of Photonic Crystals.” [_ACS Photonics_ 6.9 (2019): 2312-2319](https://pubs.acs.org/doi/10.1021/acsphotonics.9b00820).
-<p align="center">
+<!-- <p align="center">
   <img width="460" src="/Images/imageEFCs.png">
-</p>
+</p> -->
 
 * Xingwang Zhang, Nicolas Biekert, Shinhyuk Choi, Carl Naylor, Chawina De-Eknamkul, **Wenzhuo Huang**, Xiaorui Zheng, Dake Wang, 
 Alan T. Johnson, Ertugrul  Cubukcu. “Dynamic Photochemical and Optoelectronic Control of Photonic Fano Resonances via Monolayer 
