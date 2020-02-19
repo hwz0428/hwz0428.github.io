@@ -8,5 +8,5 @@ My research interests lie in the field of nanophotonics, including plasmonics, m
 - Scattering and waveguiding in photonic crystals with non-Hermiticity and special symmetries.
 - Controlling photoluminescence from 2D semiconductors.
 - Exciton-polaritons and valleytronics in mono- and few-layer TMDCs.
-- Topological photonics in dielectric metasurfaces.
+- Tunable topological photonic nanosctructures.
 
