@@ -1,6 +1,6 @@
 ### | [Home](../index.md) | [Research](../research/index.md) | [Publications](../publications/index.md) | [About me](../aboutme/index.md) | [Contact](../contact/index.md)
 
-## Publications
+## Publications (my [Google Scholar](https://scholar.google.com/citations?user=l84jH0AAAAAJ&hl=en))
 
 * Xingwang Zhang, Xiaojie Zhang, **Wenzhuo Huang**, Kedi Wu, Mengqiang Zhao, A. T. Charlie Johnson, Sefaattin Tongay, and Ertugrul Cubukcu. "Ultrathin WS2‐on‐Glass Photonic Crystal for Self‐Resonant Exciton‐Polaritonics." [_Advanced Optical Materials_ (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201901988).
 <p align="center">
