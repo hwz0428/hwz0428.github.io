@@ -4,9 +4,8 @@
 
 ![](/Images/enhmap_flw.png)
 
-My research interests lie in the field of nanophotonics, including plasmonics, metamaterials, photonic crystals, 2D materials, exciton-polaritons, and most recently, topological photonics. More specifically, a few projects I am working on include: 
+My research interest lies in the field of nanophotonics, including plasmonics, metamaterials, photonic crystals, 2D materials, exciton-polaritons, and most recently, topological photonics. More specifically, a few projects I am currently working on include: 
 - Scattering and waveguiding in photonic crystals with non-Hermiticity and special symmetries.
-- Directional emission from 2D semiconductors integrated nanostructure.
+- Directional emission from 2D-semiconductors-integrated nano-devices.
 - Exciton-polaritons and valleytronics in mono- and few-layer TMDCs.
 - Tunable topological photonic nanosctructures and edge states.
-
