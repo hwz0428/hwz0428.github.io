@@ -3,8 +3,8 @@
 
 ![](Images/ebl-developed-10X_banner.jpeg)
 
-I am currently a 4th year PhD candidate in Photonics, Electrical and Computer Engineerning at University of California, San Diego. I am working with Prof. Ertugrul Cubukcu in [Nanoengineered Photonics Group](http://cubukcu.ucsd.edu/Cubukcu_Lab-UCSD/Home.html). Our research motivation is to study light-matter interaction using novel nanoscale devices and sensors.
+I am currently a 6th year PhD candidate in Photonics, Electrical and Computer Engineerning at University of California, San Diego. I am working with Prof. Ertugrul Cubukcu in [Nanoengineered Photonics Group](http://cubukcu.ucsd.edu/Cubukcu_Lab-UCSD/Home.html). Our research motivation is to study light-matter interaction using novel nanoscale devices and sensors.
 
 #### Note
 
-_Recent Update: Feb. 2020_
+_Recent Update: Feb. 2022_
