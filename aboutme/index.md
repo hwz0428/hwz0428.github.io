@@ -2,7 +2,7 @@
 
 ### My most recent [CV](./CV_2022_WenzhuoHuang.pdf).
 
-## Professional
+## Professional Skills
 - Simulation: FDTD (Lumerical, MEEP), FEM (COMSOL), RCWA (S4)
 
 - Experiment: Opto-mechanical assemblies, Optical alignment, Free space and Fourier imaging, Holography
@@ -14,6 +14,11 @@
 - Programming: Python, Matlab, Mathematica, LabVIEW, Linux, Latex
 
 - Courses: Computational Physics, General Relativity, Integrated Photonics, Laser and Optics, Nanophotonics, Optical Information Processing, Optical Processes in Semiconductors, Physics of Management Science, Reasoning and Decision Making, Solid State Physics, Statistical Optics, Theoretical Astrophysics, Topology, Two-Dimensional Materials.
+
+## Industrial Experience
+- Quantitative Research Intern at [Citadel Securities](https://www.citadelsecurities.com/)
+  
+- PhD Research Intern at [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
 
 ## Lifestyle
 I am a skiing enthusiast.
