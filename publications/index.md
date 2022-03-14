@@ -2,12 +2,14 @@
 
 ## Publications (my [Google Scholar](https://scholar.google.com/citations?user=l84jH0AAAAAJ&hl=en))
 
-* Xingwang Zhang, Xiaojie Zhang, **Wenzhuo Huang**, Kedi Wu, Mengqiang Zhao, A. T. Charlie Johnson, Sefaattin Tongay, and Ertugrul Cubukcu. "Ultrathin WS2‐on‐Glass Photonic Crystal for Self‐Resonant Exciton‐Polaritonics." [_Advanced Optical Materials_ (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201901988).
+* Zhang, Xingwang, **Wenzhuo Huang**, Chawina De-Eknamkul, Kedi Wu, Meng-qiang Zhao, Sefaattin Tongay, Alan T. Charlie Johnson, and Ertugrul Cubukcu. "Azimuthally Polarized and Unidirectional Excitonic Emission from Deep Subwavelength Transition Metal Dichalcogenide Annular Heterostructures." [_ACS Photonics_ 8, no. 10 (2021): 2861-2867](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c01033).
+
+* Xingwang Zhang, Xiaojie Zhang, **Wenzhuo Huang**, Kedi Wu, Mengqiang Zhao, A. T. Charlie Johnson, Sefaattin Tongay, and Ertugrul Cubukcu. "Ultrathin WS2‐on‐Glass Photonic Crystal for Self‐Resonant Exciton‐Polaritonics." [_Advanced Optical Materials_ 8, no. 7 (2020): 1901988](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201901988).
 <p align="center">
   <img width="500" src="/Images/WS2onGlass.png">
 </p>
 
-* De-Eknamkul Chawina, Xingwang Zhang, Mengqiang Zhao, **Wenzhuo Huang**, Renyu Liu, A. T. Charlie Johnson, and Ertugrul Cubukcu. "MoS2-enabled dual-mode optoelectronic biosensor using a water soluble variant of Mu-opioid receptor for opioid peptide detection." [_2D Materials_ (2019)](https://iopscience.iop.org/article/10.1088/2053-1583/ab5ae2/meta).
+* De-Eknamkul Chawina, Xingwang Zhang, Mengqiang Zhao, **Wenzhuo Huang**, Renyu Liu, A. T. Charlie Johnson, and Ertugrul Cubukcu. "MoS2-enabled dual-mode optoelectronic biosensor using a water soluble variant of Mu-opioid receptor for opioid peptide detection." [_2D Materials_ 7, no. 1 (2019): 014004](https://iopscience.iop.org/article/10.1088/2053-1583/ab5ae2/meta).
 
 * **Wenzhuo Huang**, Chawina De-Eknamkul, Xingwang Zhang, Eric Leewong, Meng-Qiang Zhao, A. T. Charlie Johnson, and Ertugrul Cubukcu. 
 “Monolayer Excitonic Emission for Imaging Spatial Dispersion of Photonic Crystals.” [_ACS Photonics_ 6.9 (2019): 2312-2319](https://pubs.acs.org/doi/10.1021/acsphotonics.9b00820).
