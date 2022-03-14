@@ -1,6 +1,6 @@
 ### | [Home](../index.md) | [Research](../research/index.md) | [Publications](../publications/index.md) | [About me](../aboutme/index.md) | [Contact](../contact/index.md)
 
-### My most recent [CV](./New_CV_Huang.pdf).
+### My most recent [CV](./CV_2022_WenzhuoHuang.pdf).
 
 ## Professional
 - Simulation: FDTD (Lumerical, MEEP), FEM (COMSOL), RCWA (S4)
