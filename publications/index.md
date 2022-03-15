@@ -2,7 +2,7 @@
 
 ## Publications (my [Google Scholar](https://scholar.google.com/citations?user=l84jH0AAAAAJ&hl=en))
 
-* Zhang, Xingwang, **Wenzhuo Huang**, Chawina De-Eknamkul, Kedi Wu, Meng-qiang Zhao, Sefaattin Tongay, Alan T. Charlie Johnson, and Ertugrul Cubukcu. "Azimuthally Polarized and Unidirectional Excitonic Emission from Deep Subwavelength Transition Metal Dichalcogenide Annular Heterostructures." [_ACS Photonics_ 8, no. 10 (2021): 2861-2867](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c01033).
+* Xingwang Zhang, **Wenzhuo Huang**, Chawina De-Eknamkul, Kedi Wu, Meng-qiang Zhao, Sefaattin Tongay, Alan T. Charlie Johnson, and Ertugrul Cubukcu. "Azimuthally Polarized and Unidirectional Excitonic Emission from Deep Subwavelength Transition Metal Dichalcogenide Annular Heterostructures." [_ACS Photonics_ 8, no. 10 (2021): 2861-2867](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c01033).
 
 * Xingwang Zhang, Xiaojie Zhang, **Wenzhuo Huang**, Kedi Wu, Mengqiang Zhao, A. T. Charlie Johnson, Sefaattin Tongay, and Ertugrul Cubukcu. "Ultrathin WS2‐on‐Glass Photonic Crystal for Self‐Resonant Exciton‐Polaritonics." [_Advanced Optical Materials_ 8, no. 7 (2020): 1901988](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201901988).
 <p align="center">
